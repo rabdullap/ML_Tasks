@@ -24,3 +24,21 @@ Feature selection Find correlation matrix Remove multicolinearity (remove featur
 Data splitting Test, train
 Model selection and implementation
 Model evaluation**
+# ML_task5
+The objective of this assessment is to evaluate your understanding and ability to apply supervised learning techniques to a real-world dataset. Dataset: Use the breast cancer dataset available in the sklearn library. Key components to be fulfilled :
+
+Loading and Preprocessing
+Load the breast cancer dataset from sklearn.
+Preprocess the data to handle any missing values and perform necessary feature scaling.
+Explain the preprocessing steps you performed and justify why they are necessary for this dataset.
+Classification Algorithm Implementation
+Implement the following five classification algorithms:
+Logistic Regression
+Decision Tree Classifier
+Random Forest Classifier
+Support Vector Machine (SVM)
+k-Nearest Neighbors (k-NN)
+For each algorithm, provide a brief description of how it works and why it might be suitable for this dataset.
+Model Comparison
+Compare the performance of the five classification algorithms.
+Which algorithm performed the best and which one performed the worst.
